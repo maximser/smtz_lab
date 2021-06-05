@@ -142,7 +142,7 @@ class WatchItem {
                             <div class="col-md-4">
                                 <label>Производитель
                                     <select class="form-control" [(ngModel)]="newwatchBrand">
-                                    <option disabled [ngValue]="undefined">Выбрать</option>
+                                        <option disabled [ngValue]="undefined">Выбрать</option>
                                         <option *ngFor="let watchBrnd of watchBrands" 
                                             [value]="watchBrnd">
                                             {{watchBrnd}}
