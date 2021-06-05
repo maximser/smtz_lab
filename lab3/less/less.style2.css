@@ -30,7 +30,7 @@ a {
   outline: none;
   border: none;
   padding: 8px 20px;
-  background: #9CCC65;
+  background: #92CC25;
   border-radius: 7px;
   cursor: pointer;
 }
@@ -75,19 +75,19 @@ a {
 }
 .main__tile--danger .main__header,
 .main__tile--danger .main__plus {
-  color: #FF1744;
+  color: #FF1224;
 }
 .main__tile--success .main__header,
 .main__tile--success .main__plus {
-  color: #00E676;
+  color: #62E676;
 }
 .main__tile--warning .main__header,
 .main__tile--warning .main__plus {
-  color: #EF6C00;
+  color: #ED2300;
 }
 .main__tile--primary .main__header,
 .main__tile--primary .main__plus {
-  color: #0097A7;
+  color: #0F97A7;
 }
 .main__header {
   margin-bottom: 30px;
@@ -120,31 +120,31 @@ a {
   background: transparent;
 }
 .main__button--danger {
-  border-color: #FF1744;
+  border-color: #FF1224;
 }
 .main__button--danger:hover {
-  background: #FF1744;
+  background: #FF1224;
   color: #fff;
 }
 .main__button--success {
-  border-color: #00E676;
+  border-color: #62E676;
 }
 .main__button--success:hover {
-  background: #00E676;
+  background: #62E676;
   color: #fff;
 }
 .main__button--primary {
-  border-color: #0097A7;
+  border-color: #0F97A7;
 }
 .main__button--primary:hover {
-  background: #0097A7;
+  background: #0F97A7;
   color: #fff;
 }
 .main__button--warning {
-  border-color: #EF6C00;
+  border-color: #ED2300;
 }
 .main__button--warning:hover {
-  background: #EF6C00;
+  background: #ED2300;
   color: #fff;
 }
 .multiply {
